@@ -1,0 +1,15 @@
+.todo_item {
+  background-color: greenyellow;
+  width: 300px;
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.item_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
